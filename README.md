@@ -37,7 +37,7 @@ $ npm install --save react-c3js
 ### Yarn / NPM
 
 1. Modify `src/index.js`.
-2. Build the lib by using `npm run build` or `make build`.
+2. Build the lib by using `npm run build`
 3. Import C3Chart from react-c3js.
 4. See the result.
 
